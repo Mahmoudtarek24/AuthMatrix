@@ -12,7 +12,10 @@ namespace AuthMatrix
     
         public void Add(int x =10)
         {
+
             int a = 30;
+            int y = 10;
+
         }
     }
 }
