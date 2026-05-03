@@ -5,7 +5,7 @@ namespace AuthMatrix
         public DateOnly Date { get; set; }
         // login feature 
         public int TemperatureC { get; set; }
-
+        // login 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         public string? Summary { get; set; }
